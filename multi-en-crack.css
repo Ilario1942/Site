@@ -170,7 +170,7 @@
   font-size: 3rem;
   font-weight: 100;
   text-transform: uppercase;
-  margin: 0 0 0 20px;
+  margin: 13px 0 0 20px;
 }
 
 .u-section-2 .u-layout-cell-4 {
@@ -467,12 +467,12 @@
     margin-left: initial;
   }
 }.u-section-3 {
-  min-height: 1145px;
+  min-height: 1001px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
   margin-top: 0;
-  margin-bottom: 60px;
+  margin-bottom: 0;
 }
 
 .u-section-3 .u-layout-cell-1 {
