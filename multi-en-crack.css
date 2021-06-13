@@ -170,7 +170,7 @@
   font-size: 3rem;
   font-weight: 100;
   text-transform: uppercase;
-  margin: 13px 0 0 20px;
+  margin: 20px 0 0 20px;
 }
 
 .u-section-2 .u-layout-cell-4 {
@@ -524,11 +524,7 @@
 
 @media (max-width: 1199px) {
   .u-section-3 {
-    min-height: 680px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    position: relative;
+    min-height: 1101px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -572,6 +568,10 @@
 @media (max-width: 991px) {
   .u-section-3 {
     min-height: 603px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    position: relative;
   }
 
   .u-section-3 .u-layout-cell-1 {
