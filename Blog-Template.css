@@ -151,4 +151,9 @@
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 500px;
+}@font-face {
+  font-family: 'Ailerons-Typeface';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Ailerons-Typeface.otf);
 }

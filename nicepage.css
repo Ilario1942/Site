@@ -33934,11 +33934,15 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h2:not(.u-subtitle)
         {
-        font-weight: 400;
-        font-size: 2.25rem;
+        font-size: 4.5rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-weight: 400;
+        letter-spacing: 3px;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        font-family: Ailerons-Typeface;
         }
         h3
         {
@@ -34244,6 +34248,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-1 {
   width: 605px;
+  font-size: 0.875rem;
   margin: 18px auto;
 }
 
@@ -34278,11 +34283,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 36px;
+    min-height: 132px;
   }
 
   .u-footer .u-text-1 {
-    width: 340px;
+    font-size: 0.625rem;
+    width: auto;
+    margin-left: 7px;
+    margin-right: 7px;
   }
 }
 
