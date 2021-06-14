@@ -9,7 +9,7 @@
 
 .u-section-1 .u-group-1 {
   width: 570px;
-  min-height: 360px;
+  min-height: 526px;
   margin: 170px auto 60px;
 }
 
@@ -17,10 +17,16 @@
   padding: 30px;
 }
 
+.u-section-1 .u-widget-1 {
+  width: 252px;
+  min-height: 101px;
+  margin: 359px auto 0;
+}
+
 .u-section-1 .u-form-1 {
   height: 338px;
   width: 570px;
-  margin: -19px auto -19px -30px;
+  margin: -479px auto 0 -30px;
 }
 
 .u-section-1 .u-btn-1 {
